@@ -1,16 +1,32 @@
-### Hi there 👋
+# About ME
 
-<!--
-**NOLAN-aka-SWILLS/NOLAN-aka-SWILLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Who really am I? Well, 
+* 17 year old programmer!
+* Currently enlisted in highschool, somewhere in Colorado, US
+* I've been programming for many years! I absolutely love it
+* Websites are: [1](https://nolant.org), [2](https://swills.dev), [3](NOLAN-aka-SWILLS.github.io)
+## Dream Professions
+* I will, hopefully, get accepted to college soon. Where I can pursue my dream of being a Computer Engineer
+* I would seriously like to investigate into Software Engineering and Computer Science
+* I will always pursue a higher education.
 
-Here are some ideas to get you started:
+## My main languages
+:yum: = Proficient
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:shushing_face: = Getting there
+
+:pensive: = Still Learning/New to
+* :yum:Python
+* :yum:HTML/CSS
+* :shushing_face:Javascript
+* :shushing_face:GOlang
+* :pensive:C++/C
+* :pensive:PERL
+
+## Fun Fact :)
+I also try to learn a lot of languages. The " こんにちは、私はノーランです " kind of languages not
+```python
+print("hello, I am Nolan")
+```
+kind of languages:space_invader:.
+# Take a scroll around my profile! Have Fun!
