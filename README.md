@@ -28,5 +28,8 @@ I also try to learn a lot of languages. The " こんにちは、私はノーラ�
 ```python
 print("hello, I am Nolan")
 ```
+```cpp
+printf("Hello, I am Nolan")
+```
 kind of languages:space_invader:.
 # Take a scroll around my profile! Have Fun!
