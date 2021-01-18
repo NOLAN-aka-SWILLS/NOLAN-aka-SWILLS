@@ -29,10 +29,21 @@ I also try to learn a lot of languages. The " こんにちは、私はノーラ�
 print("Hello, I am Nolan")
 ```
 ```cpp
-std::cout << "Hello, I am Nolan";
+#include <iostream>
+using std::cout;
+int main()
+{
+cout << "Hello, I am Nolan";
+}
 ```
 ```java
-System.out.println("Hello, I am Nolan");
+import java.io
+class MN {
+  public static void main(Strings[] args)
+  {
+    System.out.println("Hello, I am Nolan");
+  }
+}
 ```
 kind of languages:space_invader:.
 # Take a scroll around my profile! Have Fun!
