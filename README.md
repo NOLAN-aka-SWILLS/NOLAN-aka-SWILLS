@@ -19,8 +19,8 @@ Who really am I? Well,
 * :yum:Python
 * :yum:HTML/CSS
 * :shushing_face:Javascript
-* :shushing_face:GOlang
-* :pensive:C++/C
+* :shushing_face:C++/C
+* :pensive:GOLang
 * :pensive:PERL
 
 ## Fun Fact :)
