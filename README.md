@@ -26,10 +26,13 @@ Who really am I? Well,
 ## Fun Fact :)
 I also try to learn a lot of languages. The " こんにちは、私はノーランです " kind of languages not
 ```python
-print("hello, I am Nolan")
+print("Hello, I am Nolan")
 ```
 ```cpp
-printf("Hello, I am Nolan")
+std::cout << "Hello, I am Nolan";
+```
+```java
+System.out.println("Hello, I am Nolan");
 ```
 kind of languages:space_invader:.
 # Take a scroll around my profile! Have Fun!
