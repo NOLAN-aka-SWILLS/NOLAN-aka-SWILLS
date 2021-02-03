@@ -28,7 +28,16 @@ Who really am I? Well,
 ## Fun Fact :)
 I also try to learn a lot of languages. The " こんにちは、私はノーランです " kind of languages not
 ```python
-print("Hello, I am Nolan")
+class SomeClass:
+  def __init__(self):
+    self.path=[]
+  def hello_writer(self, ctx):
+    self.path.append(str(ctx))
+  def __main__(self):
+    print(self.path)
+app = SomeClass()
+app.hello_writer("Hello, I am Nolan")
+app.__main__()
 ```
 ```cpp
 #include <iostream>
