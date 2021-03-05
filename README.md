@@ -3,7 +3,7 @@
 Who really am I? Well, 
 * 17 year old programmer!
 * Currently enlisted in highschool, somewhere in Colorado, US
-* College Bound !
+* College Bound ! (UCCS)
 * I've been programming for many years! I absolutely love it
 * Websites are: [1](https://nolant.org), [2](https://swills.dev), [3](NOLAN-aka-SWILLS.github.io)
 * Youtube is: [here](https://www.youtube.com/channel/UCRblZC569m8Ovorxo8cVEFA) -- there will be better uploads soon, mainly tutorial based!
