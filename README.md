@@ -1,3 +1,7 @@
+
+**Important**
+
+Most of my repos are made out of boredom, so you'll find many unfinished past the bones. They will be developed on, and I've had my bone programs used, but for the most part, don't expect them to be touched often.
 # About ME
 
 Who really am I? Well, 
