@@ -1,4 +1,4 @@
-[![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-nolant&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nolant&theme=radical&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-nolant&theme=radical&include_all_commits=True)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nolant&theme=radical&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 **Important**
 
