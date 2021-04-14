@@ -1,4 +1,4 @@
-
+[![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-nolant)](https://github.com/anuraghazra/github-readme-stats)
 **Important**
 
 Most of my repos are made out of boredom, so you'll find many unfinished past the bones. They will be developed on, and I've had my bone programs used, but for the most part, don't expect them to be touched often.
