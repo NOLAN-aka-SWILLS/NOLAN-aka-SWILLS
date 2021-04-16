@@ -25,9 +25,11 @@ Who really am I? Well,
 :pensive: = Still Learning/New to
 * :yum:Python
 * :yum:HTML/CSS
+* :yum:RobotC
+* :shushing_face:C (Slowly getting to proficient)
 * :shushing_face:Javascript
-* :shushing_face:C
 * :shushing_face:Java
+* :shushing_face:Assembly
 * :pensive:GOLang
 * :pensive:PERL
 
