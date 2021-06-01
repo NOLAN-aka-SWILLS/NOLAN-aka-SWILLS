@@ -6,7 +6,7 @@ Most of my repos are made out of boredom, so you'll find many unfinished past th
 # About ME
 
 Who really am I? Well, 
-* 17 year old programmer!
+* 18 year old programmer!
 * Currently enlisted in highschool, somewhere in Colorado, US
 * College Bound ! (UCCS)
 * I've been programming for many years! I absolutely love it
@@ -25,9 +25,10 @@ Who really am I? Well,
 :pensive: = Still Learning/New to
 * :yum:Python
 * :yum:HTML/CSS
+* :yum:PHP
+* :yum:Javascript
 * :yum:RobotC
 * :shushing_face:C (Slowly getting to proficient)
-* :shushing_face:Javascript
 * :shushing_face:Java
 * :shushing_face:Assembly
 * :pensive:GOLang
