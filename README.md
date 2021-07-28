@@ -11,7 +11,7 @@ Who really am I? Well,
 * College Bound ! (UCCS)
 * I've been programming for many years! I absolutely love it
 * Websites are: [1](https://nolant.org), [2](https://swills.dev), [3](NOLAN-aka-SWILLS.github.io)
-* Youtube is: [here](https://www.youtube.com/channel/UCRblZC569m8Ovorxo8cVEFA) -- there will be better uploads soon, mainly tutorial based!
+* Youtube is: [here](https://www.youtube.com/channel/UCRblZC569m8Ovorxo8cVEFA) 
 ## Dream Professions
 * I would seriously like to investigate into Software Engineering and Computer Science
 * I wish to study and live out in Japan for a few years
