@@ -1,69 +1,55 @@
-[![nolans's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dev_nolant&theme=radical&layout=compact)](https://wakatime.com/@dev_nolant)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nolant&theme=radical&layout=compact&langs_count=8)](https://github.com/dev-nolant?tab=repositories)
-![](https://komarev.com/ghpvc/?username=dev-nolant)
-**Important**
+<h1 align="center">Hi there, I'm Nolan Taft :)</h1>
 
-Most of my repos are made out of boredom, so you'll find many unfinished past the bones. They will be developed on, and I've had my bone programs used, but for the most part, don't expect them to be touched often. You can find active repo demos [here](https://code.nolant.org/repos/)
-# About ME
+![](https://komarev.com/ghpvc/?username=dev-nolant&style=plastic&label=PROFILE+VIEWS&color=blueviolet)
+![Twitch Status](https://img.shields.io/twitch/status/swivlefan?style=plastic&color=blueviolet)
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=down&style=plastic&up_color=blueviolet&up_message=online&url=https%3A%2F%2Fnolant.org)
 
-Who really am I? Well, 
-* 18 year old programmer!
-* Currently enlisted in highschool, somewhere in Colorado, US
-* College Bound ! (UCCS)
-* I've been programming for many years! I absolutely love it
-* Websites are: [1](https://nolant.org), [2](https://swills.dev), [3](NOLAN-aka-SWILLS.github.io)
-* Youtube is: [here](https://www.youtube.com/channel/UCRblZC569m8Ovorxo8cVEFA) 
-## Dream Professions
-* I would seriously like to investigate into Software Engineering and Computer Science
-* I wish to study and live out in Japan for a few years
+# 🧒🏻 About Me
 
-## My main languages
-:yum: = Proficient
+- 🦾 Full-Stack Computer Science Student
+- 👥 Looking to collaborate on projects
+- 🫂 Currently looking for a job/internship
 
-:shushing_face: = Getting there
 
-:pensive: = Still Learning/New to
-* :yum:Python
-* :yum:HTML/CSS
-* :yum:PHP
-* :yum:Javascript
-* :yum:RobotC
-* :shushing_face:C (Slowly getting to proficient)
-* :shushing_face:Java
-* :shushing_face:Assembly
-* :pensive:GOLang
-* :pensive:PERL
+# 📬 Contact Me
 
-## Fun Fact :)
-I also try to learn a lot of languages. The " こんにちは、私はノーランです " kind of languages not
-```python
-class SomeClass:
-  def __init__(self):
-    self.path=[]
-  def hello_writer(self, ctx):
-    self.path.append(str(ctx))
-  def __main__(self):
-    print(self.path)
-app = SomeClass()
-app.hello_writer("Hello, I am Nolan")
-app.__main__()
-```
-```cpp
-#include <iostream>
-using std::cout;
-int main()
-{
-cout << "Hello, I am Nolan";
-}
-```
-```java
-import java.io
-class MN {
-  public static void main(Strings[] args)
-  {
-    System.out.println("Hello, I am Nolan");
-  }
-}
-```
-kind of languages:space_invader:.
-# Take a scroll around my profile! Have Fun!
+<p align ="center">
+
+  <a href ="#'downbadman#0069'" role="downbadman#0069">
+  <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>
+  </a>
+  <a href ="https://twitter.com/NaloCardOffic" role="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+   <a href ="https://www.facebook.com/ahmed.nouira.7792/">
+  <img src="https://img.shields.io/badge/-Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white"/>
+  </a>
+</p>
+
+
+# ✅ My Stats
+
+<p align="center" >
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=dev-nolant&theme=tokyonight_duo">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-nolant&theme=tokyonight_duo" />
+</a>
+</p>
+
+
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nolant&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nolant&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121" />
+</a>
+</p>
+
+<p align="center" >
+<a href="https://wakatime.com/@dev_nolant" target="\_blank">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dev-nolant&v=2&langs_count=8&custom_title=🕒 Most Used Languages Time&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121" />
+  </a>
+</p>
+
+<p align="center" >
+<a href="https://github-readme-stats.vercel.app/api?username=dev-nolant&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121">
+    <img src="https://github-readme-stats.vercel.app/api?username=dev-nolant&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121" /> 
+  </a>
+</p>
