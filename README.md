@@ -44,7 +44,7 @@
 
 <p align="center" >
 <a href="https://wakatime.com/@dev_nolant" target="\_blank">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dev-nolant&v=2&langs_count=8&custom_title=🕒 Most Used Languages Time&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dev_nolantt&v=2&langs_count=8&custom_title=🕒 Most Used Languages Time&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121" />
   </a>
 </p>
 
