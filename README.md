@@ -1,4 +1,4 @@
-[![nolans's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dev_nolant)](https://wakatime.com/@dev_nolant)
+[![nolans's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dev_nolant&theme=radical&layout=compact)](https://wakatime.com/@dev_nolant)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nolant&theme=radical&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 **Important**
