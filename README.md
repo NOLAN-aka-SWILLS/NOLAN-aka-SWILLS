@@ -1,6 +1,6 @@
 [![nolans's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dev_nolant&theme=radical&layout=compact)](https://wakatime.com/@dev_nolant)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nolant&theme=radical&layout=compact&langs_count=8)](https://github.com/dev-nolant?tab=repositories)
-
+![](https://komarev.com/ghpvc/?username=dev-nolant)
 **Important**
 
 Most of my repos are made out of boredom, so you'll find many unfinished past the bones. They will be developed on, and I've had my bone programs used, but for the most part, don't expect them to be touched often. You can find active repo demos [here](https://code.nolant.org/repos/)
