@@ -21,7 +21,7 @@
   <a href ="https://twitter.com/NaloCardOffic" role="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-   <a href ="https://www.facebook.com/ahmed.nouira.7792/">
+   <a href ="https://www.twitch.tv/swivlefan">
   <img src="https://img.shields.io/badge/-Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white"/>
   </a>
 </p>
