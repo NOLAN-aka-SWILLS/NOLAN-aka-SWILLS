@@ -8,7 +8,7 @@
 
 - 🦾 Full-Stack Computer Science Student
 - 👥 Looking to collaborate on projects
-- 🫂 Currently looking for a job/internship
+- 🫂 Not currently looking for a job/internship, but still will accept offers
 - [Developer of Better GitHub Links](https://code.nolant.org/linkify?link=https://github.com/dev-nolant/better-github-links)
 
 # 📬 Contact Me
