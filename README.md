@@ -15,10 +15,10 @@
 
 <p align ="center">
 
-  <a href ="#'downbadman#0069'" role="downbadman#0069">
+  <a href ="https://discordapp.com/users/307867475410681857" role="downbadman#0069">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>
   </a>
-  <a href ="https://twitter.com/NaloCardOffic" role="Twitter">
+  <a href ="https://twitter.com/UwuGawk" role="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
    <a href ="https://www.twitch.tv/swivlefan">
