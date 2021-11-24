@@ -9,7 +9,7 @@
 - 🦾 Full-Stack Computer Science Student
 - 👥 Looking to collaborate on projects
 - 🫂 Not currently looking for a job/internship, but still will accept offers
-- [Developer of Better GitHub Links](https://code.nolant.org/linkify?link=https://github.com/dev-nolant/better-github-links)
+- [Developer of Better GitHub Links](https://code.nolant.org/linkify?link=https://github.com/dev-nolant/better-github-links) and the new [UCCS Organization](https://github.com/New-UCCS)
 
 # 📬 Contact Me
 
