@@ -4,7 +4,7 @@
   <a href="https://github.com/dev-nolant"><u>Dev-Nolant</u></a>
 </p>
 <p align="center">
-  <img src="images/banner3.gif"/>
+  <img src="images/banner4.gif"/>
 </p>
 <p align="center">
   You dream it, I build it.
@@ -27,11 +27,8 @@
     <li><a href="#contact-me">Contact</a></li>  </ol>
 </details>
 
-
 ## About Me
-<p align="center">
-  <img style="width: 100%"  src="images/main_banner4cropped.gif"/>
-</p>
+
 
 - *18 year old Software Engineering Contractor @ ImageSource*
 - 🦾 Full-Stack Computer Science Student
@@ -63,22 +60,22 @@ I am completely self-taught, meaning I have taught myself every language used. I
 ### Built with
 What is my profile built in? (What languages are on GitHub)
 > ! No order !
-* Python
-* Javascript
-* Html
-* Lisp
-* C
-* GO
-* CSS
-* C++
-* C#
-* Prolog
+* Python <img width="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+* Javascript <img width="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+* Html <img width="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+* Lisp 
+* C <img width="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+* GO <img width="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+* CSS <img width="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+* C++ <img width="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+* C# <img width="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+* Prolog 
 * CSV (db)
-* Batchfile
-* PHP
-* SQL
-* XML
-* Others
+* Batchfile 
+* PHP <img width="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+* SQL <img width="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+* XML 
+* Others<img width="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <details>
   <summary>Break down of languages</summary>
 <p align="center">
@@ -113,3 +110,6 @@ Most of my work is distributed under the MIT License. See LICENSE.txt in the rep
   </a>
 </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
+<p align="center">
+  <img style="width: 100%"  src="images/main_banner4cropped.gif"/>
+</p>
