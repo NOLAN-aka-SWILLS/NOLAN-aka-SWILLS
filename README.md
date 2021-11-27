@@ -4,7 +4,7 @@
   <a href="https://github.com/dev-nolant"><u>Dev-Nolant</u></a>
 </p>
 <p align="center">
-  <img width="200" height="200" src="images/banner.gif"/>
+  <img src="images/banner.gif"/>
 </p>
 <p align="center">
   You dream it, I build it.
