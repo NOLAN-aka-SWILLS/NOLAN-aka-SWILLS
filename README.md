@@ -4,7 +4,7 @@
   <a href="https://github.com/dev-nolant"><u>Dev-Nolant</u></a>
 </p>
 <p align="center">
-  <img src="images/banner.gif"/>
+  <img src="images/banner2.gif"/>
 </p>
 <p align="center">
   You dream it, I build it.
@@ -30,7 +30,7 @@
 
 ## About Me
 <p align="center">
-  <img style="width: 100%"src="images/main_banner1.gif"/>
+  <img style="width: 100%"  src="images/main_banner4.gif"/>
 </p>
 
 - *18 year old Software Engineering Contractor @ ImageSource*
