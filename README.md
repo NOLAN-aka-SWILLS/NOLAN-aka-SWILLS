@@ -1,16 +1,16 @@
 <div id="top"></div>
-<h1 align="center">A Rest API built on a Flask framework.</h1> <!--Change this to your project name-->
+<h1 align="center">A Rest API built on a Flask framework.</h1> 
 <p align="center">
   <a href="https://github.com/dev-nolant"><u>Dev-Nolant</u></a>
 </p>
 <p align="center">
   <img width="200" height="200" src="images/banner.png"/>
-</p><!--Change the link to your unique image/gif link-->
+</p>
 <p align="center">
   You dream it, I build it.
     </p>
     <p align="center">
-<a href="https://github.com/dev-nolant">Report Bug</a> · <a href="https://github.com/dev-nolant">Request feature</a>
+<a href="https://github.com/dev-nolant/dev-nolant/issues">Report Bug</a> · <a href="https://github.com/dev-nolant/dev-nolant/issues">Request feature</a>
   </p>
 <details>
   <summary>Table of Contents</summary>
@@ -19,84 +19,80 @@
       <a href="#about-me">About Me</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#what-i-learned">What I learned</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#how-i-learned">How I've Learned</a></li>
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact-me">Contact</a></li>  </ol>
 </details>
-<!--START BUILDING RESPONSES-->
 
-## About the Project
+
+## About Me
 <p align="center">
   <img width="460" height="300" src="images/center image.png"/>
 </p>
-This project was uploaded to display a new style of README.md for the organization, as well as start our Python repositories off on a good foot!
 
-&nbsp;
+- *18 year old Software Engineering Contractor @ ImageSource*
+- 🦾 Full-Stack Computer Science Student
+- 👥 Looking to collaborate on projects
+- 🫂 Not currently looking for a job/internship, but still will accept offers
 
-You'll find that the server is responsive as well as it's setup for debug mode, so any further changes will be saved on ```COMMAND + S```, or whichever save keybind you use.
+<details>
+  <summary>My GitHub Stats</summary>
+<p align="center" >
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=dev-nolant&theme=tokyonight_duo">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-nolant&theme=tokyonight_duo" />
+  </a>
+
+<a href="https://github-readme-stats.vercel.app/api?username=dev-nolant&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121">
+    <img src="https://github-readme-stats.vercel.app/api?username=dev-nolant&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121" /> 
+  </p>
+  </a>
+</details>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### What I Learned
-Through the use of CSV, I learned the manipulation and reaction to CSV when being accessed through a Flask Framed server.
+### How I Learned
+I am completely self-taught, meaning I have taught myself every language used. I've used many means of education in order to do so:
+ 1. Books. I've used a large amount of books in order to teach myself the introductions to C, as well as my datascience knowledge in Python.
+ 2. YouTube. Arguably, YouTube is the best place to learn to code. There are tons and tons of videos on all types of programming languages. It was the most influential thing on my Python journey.
+ 3. Friends. Having a friend or two that know a language or two super well is always nice to have, as you can run your code past them!
+ 4. Trial and error. When being self-taught, you run into a lot of error. This is good, however, as you'll spend time investigating why it doesn't work and end up figuring out what you need in order to make your code work!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built with
-What is my profile built in? (What languages)
-> No order
-* [Python]()
-* [Javascript]
-* [Html]
-* [Lisp]
-* [C]
-* [GO]
-* [CSS]
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Getting Started
-
-### Prerequisites
-___PYTHON IS REQUIRED!___ 
-
-If you do not have Python installed:
-* Click [this](https://www.python.org/downloads/)
-* Follow the required instructions
-* Restart Computer
-If you're still having issues, please Google them or create an issue on this repo and I will help.
-
-
-__The installation of library prereqs will be held through pip, but feel free to use any other installation manager.__
-
-&nbsp;&nbsp;&nbsp;In a terminal:
-&nbsp;
-
-<img src="images/pipbar1.png"/>
-
-Copy paste: ```pip install pandas Flask```
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-### Installation
-Once you've downloaded both ```_server.py``` and the ```db/``` directory inside of the ```/src/``` directory, the execution can be done through double click or through an IDE. 
-
-I use[Visual Studio Code](https://code.visualstudio.com).
-
-___Both AST and OS ship with Python___
+What is my profile built in? (What languages are on GitHub)
+> ! No order !
+* Python
+* Javascript
+* Html
+* Lisp
+* C
+* GO
+* CSS
+* C++
+* C#
+* Prolog
+* CSV (db)
+* Batchfile
+* PHP
+* SQL
+* XML
+* Others
+<details>
+  <summary>Break down of languages</summary>
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nolant&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nolant&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121" />
+</a>
+</p>
+</details>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contributing
 In order to contribute, you make a [pull request](https://github.com/New-UCCS/dev-nolant/pulls), [fork](https://github.com/New-UCCS/dev-nolant/network/members), or create an [issue](https://github.com/New-UCCS/dev-nolant/issues)
 
-Doing these will allow me to come back and take a look at what you've done to the code to improve it!
+Doing these will allow me to come back and take a look at what you've done to my code to improve it!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## License
