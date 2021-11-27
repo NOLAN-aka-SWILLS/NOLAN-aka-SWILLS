@@ -30,7 +30,7 @@
 
 ## About Me
 <p align="center">
-  <img width="460" height="300" src="images/center image.png"/>
+  <img width="460" height="300" src="images/main_image.png"/>
 </p>
 
 - *18 year old Software Engineering Contractor @ ImageSource*
