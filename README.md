@@ -103,6 +103,14 @@ Most of my work is distributed under the MIT License. See LICENSE.txt in the rep
    <a href ="https://www.twitch.tv/swivlefan">
    <img src="https://img.shields.io/badge/-Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white"/>
    </a>
+   <details>
+      <summary>Traditional Methods</summary>
+      <ol>
+         <li><a href="mailto:contact@nolant.org">Email Me</a></li>
+         <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjt7qjv3rn0AhVzlmoFHf5XCVkQFnoECBUQAQ&url=https%3A%2F%2Fwww.instagram.com%2Fysfwtbob%2F&usg=AOvVaw2STbGB5Jv4ACmnI-wRGMbp">Instagram</a></li>
+         <li><a href="https://www.snapchat.com/add/wassupbruda">Snapchat</a></li>
+      </ol>
+   </details>
 </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 <p align="center">
