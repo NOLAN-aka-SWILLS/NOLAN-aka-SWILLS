@@ -1,5 +1,5 @@
 <div id="top"></div>
-<h1 align="center">A Rest API built on a Flask framework.</h1> 
+<h1 align="center">Welcome Traveler!</h1> 
 <p align="center">
   <a href="https://github.com/dev-nolant"><u>Dev-Nolant</u></a>
 </p>
@@ -30,7 +30,7 @@
 
 ## About Me
 <p align="center">
-  <img src="images/main_banner.gif"/>
+  <img style="width: 100%"src="images/main_banner1.gif"/>
 </p>
 
 - *18 year old Software Engineering Contractor @ ImageSource*
