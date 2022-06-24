@@ -29,10 +29,10 @@
 </details>
 
 ## About Me
-- *18 year old Software Engineering Contractor @ ImageSource working on ILINX*
+- *18 year old Software Engineering Contractor
 - 🦾 Full-Stack Computer Science Student
 - 👥 Looking to collaborate on projects
-- 🫂 Not currently looking for a job/internship, but still will accept offers
+- 🫂 Open for a job/internship
 <details>
    <summary>My GitHub Stats</summary>
    <p align="center" >
