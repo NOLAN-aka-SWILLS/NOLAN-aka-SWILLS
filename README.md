@@ -29,7 +29,7 @@
 </details>
 
 ## About Me
-- *18 year old Software Engineering Contractor
+- 19 year old Software Engineering Contractor
 - 🦾 Full-Stack Computer Science Student
 - 👥 Looking to collaborate on projects
 - 🫂 Open for a job/internship
