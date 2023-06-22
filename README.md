@@ -29,8 +29,8 @@
 </details>
 
 ## About Me
-- 19 year old Software Engineering Contractor
-- 🦾 Full-Stack Computer Science Student
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+- 20 year old Software Engineering Contractor
 - 👥 Looking to collaborate on projects
 - 🫂 Open for a job/internship
 <details>
