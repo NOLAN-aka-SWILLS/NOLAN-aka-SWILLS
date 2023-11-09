@@ -106,9 +106,9 @@ Most of my work is distributed under the MIT License. See LICENSE.txt in the rep
    <details>
       <summary>Traditional Methods</summary>
       <ol>
-         <li><a href="mailto:contact@nolant.org">Email Me</a></li>
-         <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjt7qjv3rn0AhVzlmoFHf5XCVkQFnoECBUQAQ&url=https%3A%2F%2Fwww.instagram.com%2Fysfwtbob%2F&usg=AOvVaw2STbGB5Jv4ACmnI-wRGMbp">Instagram</a></li>
-         <li><a href="https://www.snapchat.com/add/wassupbruda">Snapchat</a></li>
+         <li><a href="mailto:nolanetaft@gmail.com">Email Me</a></li>
+         <li><a href="https://www.linkedin.com/in/nolan-taft-0b0633219/">LinkedIn</a></li>
+         <li><a href="https://www.upwork.com/freelancers/~016830017dfafc909e">UpWork</a></li>
       </ol>
    </details>
 </p>
